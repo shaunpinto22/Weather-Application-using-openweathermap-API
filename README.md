@@ -17,7 +17,7 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 
 -Copy the API key.
 
--Go to the scipt.js file inside scripts folder.
+-Go to the script.js file inside scripts folder.
 
 -Paste your API key inside double quotation marks in the following line of code instead of 'API key' :
  var apiKey = "API key";
