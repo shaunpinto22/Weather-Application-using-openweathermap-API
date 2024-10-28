@@ -2,7 +2,9 @@
 A weather app made using OpenWeatherMap API in Vanilla JavaScript.
 
 
+
 This web application tells the current temperature and some information like Real Feel, Humidity, Highest Temperature, Lowest Temperature, Wind Speed, Visibility, Air Pressure.
+
 
 
 To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps to set up your API key:
